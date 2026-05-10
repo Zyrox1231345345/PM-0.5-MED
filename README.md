@@ -35,6 +35,20 @@
 
 ---
 
+## Версии (Releases)
+
+| Версия | Описание | Ссылка |
+|--------|----------|--------|
+| v1.0 | DDL-скрипт + тестовые данные (8 таблиц, индексы, INSERT) | [v1.0](https://github.com/Zyrox1231345345/PM-0.5-MED/releases/tag/v1.0) |
+| v2.0 | CRUD-операции в C# WinForms-приложении | [v2.0](https://github.com/Zyrox1231345345/PM-0.5-MED/releases/tag/v2.0) |
+| v3.0 | Представления (VIEW) и хранимые процедуры | [v3.0](https://github.com/Zyrox1231345345/PM-0.5-MED/releases/tag/v3.0) |
+| v4.0 | Триггеры и ролевая модель безопасности MySQL | [v4.0](https://github.com/Zyrox1231345345/PM-0.5-MED/releases/tag/v4.0) |
+| **v5.0** | **Финальная версия — всё вместе + хэширование паролей SHA-256 + соль** | [v5.0](https://github.com/Zyrox1231345345/PM-0.5-MED/releases/tag/v5.0) |
+
+Полный SQL-дамп последней версии: [`clinic_full.sql`](https://github.com/Zyrox1231345345/PM-0.5-MED/blob/main/clinic_full.sql)
+
+---
+
 ## Структура репозитория
 
 ```
